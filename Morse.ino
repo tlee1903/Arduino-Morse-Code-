@@ -40,23 +40,23 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);
   delay(200);
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(3000);                        // G END
+  delay(3000);                        
 
-   digitalWrite(LED_BUILTIN, HIGH);   // I START
+  digitalWrite(LED_BUILTIN, HIGH);   // I 
   delay(200);
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);          
-   digitalWrite(LED_BUILTIN, HIGH);
+  digitalWrite(LED_BUILTIN, HIGH);
   delay(200);
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(3000);                        // I END
+  delay(3000);                        
 
-  digitalWrite(LED_BUILTIN, HIGH);    // T START
+  digitalWrite(LED_BUILTIN, HIGH);    // T 
   delay(1000);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(3000);                        // T END
+  delay(3000);                        
 
-  digitalWrite(LED_BUILTIN, HIGH);   // G START
+  digitalWrite(LED_BUILTIN, HIGH);   // G 
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);                       
@@ -67,9 +67,9 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);
   delay(200);
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(3000);                        // G END
+  delay(3000);                        
 
-  digitalWrite(LED_BUILTIN, HIGH);    // U START
+  digitalWrite(LED_BUILTIN, HIGH);    // U
   delay(200);
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000);                  
@@ -79,10 +79,10 @@ void loop() {
   delay(1000);       
   digitalWrite(LED_BUILTIN, HIGH);
   delay(1000);
-  digitalWrite(LED_BUILTIN, LOW);   // U END
+  digitalWrite(LED_BUILTIN, LOW);  
   delay(3000);           
 
-  digitalWrite(LED_BUILTIN, HIGH);  // D START
+  digitalWrite(LED_BUILTIN, HIGH);  // D 
   delay(1000);
   digitalWrite(LED_BUILTIN, LOW);  
   delay(1000);     
@@ -93,6 +93,75 @@ void loop() {
   digitalWrite(LED_BUILTIN, HIGH);
   delay(200);
   digitalWrite(LED_BUILTIN, LOW);    
-  delay(3000);                      // D END
-  // GIT GUD                
-}
+  delay(3000);                      
+
+  digitalWrite(LED_BUILTIN, HIGH);  // S 
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);  
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);  
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(3000);  
+
+  digitalWrite(LED_BUILTIN, HIGH);   // K
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);  
+  delay(1000);     
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);  
+  digitalWrite(LED_BUILTIN, HIGH);  
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);  
+  delay(3000);     
+
+  digitalWrite(LED_BUILTIN, HIGH);  // R
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);  
+  digitalWrite(LED_BUILTIN, HIGH);  
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);  
+  delay(1000);    
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(3000); 
+
+  digitalWrite(LED_BUILTIN, HIGH);  // U
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);
+  digitalWrite(LED_BUILTIN, HIGH);  
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);  
+  delay(3000);    
+
+  digitalWrite(LED_BUILTIN, HIGH);    // B
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);  
+  delay(1000);  
+   digitalWrite(LED_BUILTIN, HIGH);
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);
+   digitalWrite(LED_BUILTIN, HIGH);
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(1000);
+   digitalWrite(LED_BUILTIN, HIGH);
+  delay(200);
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(3000);  
+  
+  // GIT GUD SKRUB
